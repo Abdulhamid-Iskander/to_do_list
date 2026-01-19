@@ -16,9 +16,11 @@ class MyApp extends StatelessWidget {
     
     // Injecting the TaskProvider at the root of the widget tree.
     return ChangeNotifierProvider(
+      
       create: (context) => TaskProvider(),
       child: MaterialApp(
         title: 'Provider To-Do App',
+        debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.blue,
           useMaterial3: true,
