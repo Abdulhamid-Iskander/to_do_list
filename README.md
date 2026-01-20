@@ -7,14 +7,6 @@
 
 A clean, efficient, and reactive Task Management application built with **Flutter**. This project serves as a practical demonstration of state management using the **Provider** package, adhering to clean architecture principles and separation of concerns.
 
----
-
-## 📸 Screenshots
-
-| Empty State | Task List | Adding Task |
-|:-----------:|![alt text](image-2.png)|:-----------:|![alt text](image-1.png) |
-
-> *Tip: Replace the text above with actual image links after you upload screenshots to your repo.*
 
 ---
 
